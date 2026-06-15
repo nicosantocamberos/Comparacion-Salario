@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Salarios Colombia",
+  "description": "Calculadora interactiva para comparar ingresos reales netos entre un Contrato Indefinido y un Contrato de Prestación de Servicios en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
